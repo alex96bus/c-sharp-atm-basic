@@ -8,12 +8,15 @@ namespace SmartATM2
  
         internal void AddBalance()
         {
-            balance += Convert.ToDecimal(Console.ReadLine());
+            decimal value;
+            decimal.TryParse(Console.ReadLine(), out value);
+            balance += value;
         }
 
         internal void Withdraw()
         {
-            int withdraw = int.Parse(Console.ReadLine());
+            int withdraw;
+            int.TryParse(Console.ReadLine(), out withdraw);
 
             if (withdraw > balance)
             {
