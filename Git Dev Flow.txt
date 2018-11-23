@@ -1,0 +1,9 @@
+1. Implement task
+2. Commit in increments ( small stuff )
+3. Push To Develop
+4. Switch branch to master
+5. Pull Master 
+6. Switch to develop
+7. Rebase develop onto master
+8. Go To GitHub, create pull request from Develop to Master
+9. Assign Reviewer
