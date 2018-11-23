@@ -5,3 +5,10 @@ D:\C#\SmartATM2\SmartATM2\obj\Debug\SmartATM2.csprojAssemblyReference.cache
 D:\C#\SmartATM2\SmartATM2\obj\Debug\SmartATM2.csproj.CoreCompileInputs.cache
 D:\C#\SmartATM2\SmartATM2\obj\Debug\SmartATM2.exe
 D:\C#\SmartATM2\SmartATM2\obj\Debug\SmartATM2.pdb
+C:\Users\Alex\Desktop\C#\SmartATM2\c-sharp-atm-basic\SmartATM2\obj\Debug\SmartATM2.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\C#\SmartATM2\c-sharp-atm-basic\SmartATM2\obj\Debug\SmartATM2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\C#\SmartATM2\c-sharp-atm-basic\SmartATM2\obj\Debug\SmartATM2.exe
+C:\Users\Alex\Desktop\C#\SmartATM2\c-sharp-atm-basic\SmartATM2\obj\Debug\SmartATM2.pdb
+C:\Users\Alex\Desktop\C#\SmartATM2\c-sharp-atm-basic\SmartATM2\bin\Debug\SmartATM2.exe.config
+C:\Users\Alex\Desktop\C#\SmartATM2\c-sharp-atm-basic\SmartATM2\bin\Debug\SmartATM2.exe
+C:\Users\Alex\Desktop\C#\SmartATM2\c-sharp-atm-basic\SmartATM2\bin\Debug\SmartATM2.pdb
