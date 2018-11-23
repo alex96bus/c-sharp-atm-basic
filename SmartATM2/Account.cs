@@ -4,6 +4,7 @@ namespace SmartATM2
 {
     internal class Account
     {
+        private string pin;
         private decimal balance = 0;
  
         internal void AddBalance()
