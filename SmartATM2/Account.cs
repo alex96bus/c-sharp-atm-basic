@@ -34,9 +34,9 @@ namespace SmartATM2
             {
                 Console.WriteLine("Please enter the amount in multiples of 10");
             }
-            else if (withdraw == 0)
+            else if (withdraw <= 0)
             {
-                Console.WriteLine("Cannot withdraw 0!");
+                Console.WriteLine($"Cannot withdraw {withdraw}!");
             }
             else
             {
