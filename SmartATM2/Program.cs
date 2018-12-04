@@ -6,7 +6,6 @@ namespace SmartATM2
     {
         internal static void Main(string[] args)
         {
-	    int something;
             Account account = new Account();
             while (true)
             {

@@ -12,3 +12,10 @@ C:\Users\Alex\Desktop\C#\SmartATM2\c-sharp-atm-basic\SmartATM2\obj\Debug\SmartAT
 C:\Users\Alex\Desktop\C#\SmartATM2\c-sharp-atm-basic\SmartATM2\bin\Debug\SmartATM2.exe.config
 C:\Users\Alex\Desktop\C#\SmartATM2\c-sharp-atm-basic\SmartATM2\bin\Debug\SmartATM2.exe
 C:\Users\Alex\Desktop\C#\SmartATM2\c-sharp-atm-basic\SmartATM2\bin\Debug\SmartATM2.pdb
+C:\Users\Alex\Source\Repos\alex96bus\c-sharp-atm-basic\SmartATM2\bin\Debug\SmartATM2.exe.config
+C:\Users\Alex\Source\Repos\alex96bus\c-sharp-atm-basic\SmartATM2\bin\Debug\SmartATM2.exe
+C:\Users\Alex\Source\Repos\alex96bus\c-sharp-atm-basic\SmartATM2\bin\Debug\SmartATM2.pdb
+C:\Users\Alex\Source\Repos\alex96bus\c-sharp-atm-basic\SmartATM2\obj\Debug\SmartATM2.csprojAssemblyReference.cache
+C:\Users\Alex\Source\Repos\alex96bus\c-sharp-atm-basic\SmartATM2\obj\Debug\SmartATM2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\alex96bus\c-sharp-atm-basic\SmartATM2\obj\Debug\SmartATM2.exe
+C:\Users\Alex\Source\Repos\alex96bus\c-sharp-atm-basic\SmartATM2\obj\Debug\SmartATM2.pdb

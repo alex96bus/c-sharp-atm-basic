@@ -11,7 +11,14 @@ namespace SmartATM2
         {
             decimal value;
             decimal.TryParse(Console.ReadLine(), out value);
-            balance += value;
+            if (value > 0)
+            {
+                balance += value;
+            }
+            else
+            {
+                Console.WriteLine($"You cannot deposit {value} ammount!");
+            }
         }
 
         internal void Withdraw()
